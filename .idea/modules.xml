@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../ConsorzioFerlog/.idea/ConsorzioFerlog.iml" filepath="$PROJECT_DIR$/../ConsorzioFerlog/.idea/ConsorzioFerlog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ferlog.iml" filepath="$PROJECT_DIR$/.idea/ferlog.iml" />
+    </modules>
+  </component>
+</project>
